@@ -1,11 +1,10 @@
-/* ESTILOS GENERALES */
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f4f6f8;
     margin: 0;
     padding: 30px;
 }
-/* CONTENEDOR PRINCIPAL */
+
 .contenedor {
     max-width: 600px;
     margin: 50px auto;
@@ -15,18 +14,18 @@ body {
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.10);
     text-align: center;
 }
-/* TÍTULO */
+
 h1 {
     color: #333333;
 }
-/* ETIQUETA */
+
 label {
     display: block;
     font-weight: bold;
     margin-top: 25px;
     margin-bottom: 10px;
 }
-/* CAJA DE TEXTO */
+
 input[type="text"], textarea {
     width: 100%;
     padding: 12px;
@@ -35,7 +34,7 @@ input[type="text"], textarea {
     border-radius: 5px;
     box-sizing: border-box;
 }
-/* BOTÓN */
+
 button {
     width: 100%;
     margin-top: 20px;
@@ -50,7 +49,7 @@ button {
 button:hover {
     background-color: #555555;
 }
-/* ENLACES */
+
 a {
     display: inline-block;
     margin-top: 20px;
