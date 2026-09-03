@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASS = "tu_password"
+DB_PASS = "Chunchunmaru_07"
 DB_NAME = "practicas_web"
 
 def conectar_bd():
